@@ -1,0 +1,3 @@
+export const footballPlayers = [
+    'Aczino', 'Chuty', 'Skone', 'Arkano', 'Dtoke', 'Wos', 'Teorema', 'Kaiser', 'Jony Beltrán', 'Rapder', 'Zasko', 'Blon', 'Force', 'Sweet Pain', 'Gazir', 'Mnak', 'Tirpa', 'Errecé', 'Hander', 'Invert', 'Mr. Ego', 'Papo', 'Stuart', 'Mecha', 'Klan', 'Nacho', 'Sub', 'Sony', 'Nitro', 'Pepe Grillo', 'Rodamiento', 'Valles-T', 'Chang', 'Nekroos', 'Stick', 'Jaze', 'Choque', 'Strike', 'Marithea', 'Carpediem', 'Elevn', 'Big Killa', 'RBN', 'Lancer Lirical', 'Cacha', 'Wolf', 'Zaina', 'Larrix', 'Acertijo', 'Ricto', 'Tom Crowley', 'Kodigo', 'Elevn', 'Big Killa', 'Filósofo', 'Coloso'
+];
